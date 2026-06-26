@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1200&color=6F42C1&center=true&vCenter=true&repeat=false&width=650&height=80&lines=Hi%2C+I'm+Manoj+Pawar+%F0%9F%91%8B" alt="Manoj Pawar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&duration=2500&pause=1200&color=1F6FEB&center=true&vCenter=true&repeat=false&width=650&height=80&lines=Hi%2C+I'm+Manoj+Pawar+%F0%9F%91%8B" alt="Manoj Pawar" />
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->
