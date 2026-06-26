@@ -37,7 +37,7 @@
 ```python
 class ManojPawar:
     def __init__(self):
-        self.education   = "B.Tech Electrical Engineering @ VJTI (CGPA 9.11)"
+        self.education   = "B.Tech Electrical Engineering @ VJTI (CGPA 9.18)"
         self.location    = "Mumbai, Maharashtra 🇮🇳"
         self.focus       = ["Agentic AI", "Machine Learning", "Full-Stack Dev"]
         self.experience  = "Agentic AI Intern @ Terno AI"
@@ -45,7 +45,7 @@ class ManojPawar:
         self.fun_fact    = "Won a National-Level Hackathon 🏆"
 ```
 
-- 🎓 **B.Tech in Electrical Engineering** at **VJTI Mumbai** — **CGPA 9.11** *(2024–Present)*
+- 🎓 **B.Tech in Electrical Engineering** at **VJTI Mumbai** — **CGPA 9.18** *(2024–Present)*
 - 🤖 Working at the intersection of **Agentic AI, Machine Learning, and Full-Stack Development**
 - 🧠 Building **RAG / LLM-powered systems** with **Python, FastAPI, FAISS, and React**
 - 💼 Ex **Agentic AI Intern @ Terno AI** — prompt refinement, agentic workflow testing & data analysis
