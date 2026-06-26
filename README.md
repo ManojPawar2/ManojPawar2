@@ -1,7 +1,5 @@
-<!-- ===== HEADER BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6f42c1&height=180&section=header&text=Manoj%20Pawar&fontSize=60&fontColor=ffffff&fontAlignY=42" alt="Manoj Pawar banner" />
-</p>
+<!-- ===== HEADER ===== -->
+<h1 align="center">Hi, I'm Manoj Pawar 👋</h1>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
