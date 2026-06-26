@@ -1,6 +1,6 @@
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6f42c1&height=200&section=header&text=Manoj%20Pawar&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Electrical%20Engineering%20@%20VJTI%20%E2%80%A2%20Agentic%20AI%20%26%20Machine%20Learning%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=60" alt="Manoj Pawar banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6f42c1&height=180&section=header&text=Manoj%20Pawar&fontSize=60&fontColor=ffffff&fontAlignY=42" alt="Manoj Pawar banner" />
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->
