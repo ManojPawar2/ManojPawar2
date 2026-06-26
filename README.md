@@ -113,5 +113,5 @@ I'm open to **internship & placement opportunities** in AI/ML, Data, and Softwar
 
 <!-- ===== FOOTER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0A66C2&height=120&section=footer&text=Always%20learning.%20Always%20building.&fontSize=18&fontColor=ffffff&fontAlignY=70" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0A66C2&height=120&section=footer&text=Always%20learning.%20Always%20building.&fontSize=18&fontColor=ffffff&fontAlignY=70" alt="footer" />  
 </p>
